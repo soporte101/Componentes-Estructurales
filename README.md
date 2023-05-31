@@ -16,7 +16,7 @@ Ingresar al componente deseado y copiar la información requerida y pegarla segu
 
 ```bash
 # Clonar o descargar el repositorio
-$ git clone https://github.com/LuisC73/ComponentsKITUI.git
+$ git clone https://github.com/soporte101/Componentes-Estructurales.git
 
 ```
 
